@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ajboilanger!
 - 👀 I’m interested in computer science, cyber security, and personal growth.
-- 🌱 I’m currently learning cyber security through TryHackMe.
+- 🌱 I’m currently learning cyber security through TryHackMe, college classes, and other self-learning methods.
 - 💞️ I’m looking to collaborate on anything really, feel free to reach out!
 - 📫 How to reach me on Twitter @aj_boilanger!
 
